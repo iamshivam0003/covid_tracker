@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+  color:rgb(66, 66, 170);
+  border: 5px solid green;
+  background-color:rgb(143, 191, 143); ;
+
+}
+td{
+  width:120px;
+  text-align: center;
+  border:5px solid rgb(217, 141, 141) ;
+  cursor: pointer;
+}
+td:hover{
+  background-color: antiquewhite;
+  border:5px solid green;
+}
+table{
+  height:100px;
+  width:100vw;
+  border:5px solid red ;
+}
